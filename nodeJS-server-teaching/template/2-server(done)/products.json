@@ -1,0 +1,6 @@
+[
+    {"pID":111, "pName":"shoes", "price":320},
+    {"pID":222, "pName":"shirt", "price":50},
+    {"pID":333, "pName":"pants", "price":110},
+    {"pID":444, "pName":"coat", "price":230}
+]
